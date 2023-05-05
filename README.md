@@ -1,12 +1,9 @@
 # Titanic_Kaggle_competition
 This is my repository for my participation in to the Titanic Kaggle competition
 
-#Video Guide
+# Video Guide
 
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=8yZMXCaFshs" type="video/mp4">
-</video>
-
+[![Video Guide](https://img.youtube.com/vi/8yZMXCaFshs/1.jpg)](https://www.youtube.com/watch?v=8yZMXCaFshs)
 
 # Project containter - Docker
 
